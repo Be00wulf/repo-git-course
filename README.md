@@ -2,3 +2,7 @@
 Repository for the Platzi Git and GitHub course 
 
 readme added
+
+    ed: primera contribución local para github
+
+    
