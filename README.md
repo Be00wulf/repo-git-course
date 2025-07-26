@@ -6,3 +6,5 @@ readme added
     ed: primera contribución local para github
 
     ed 2: edicion desde github
+
+    ed 3: segunda edicion desde github
