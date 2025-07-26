@@ -5,4 +5,4 @@ readme added
 
     ed: primera contribución local para github
 
-    
+    ed 2: edicion desde github
