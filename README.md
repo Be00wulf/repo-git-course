@@ -11,3 +11,4 @@ readme added
 
     ed4: cambios desde mi rama local llamada developer01
     
+    ED 5: CAMBIOS DESDE DEV EDITOR GITHUB (.)
